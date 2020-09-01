@@ -1,2 +1,6 @@
 payment-report/resource
 payment-report/target
+payment-report/.project
+payment-report/.settings
+payment-report/.DS_Store
+payment-report/.classpath
