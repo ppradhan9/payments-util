@@ -35,7 +35,7 @@ public class Payments {
 	
 	public Payments(){
 		 this.requestOptions = RequestOptions.builder()
-				  .setApiKey("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")
+				  .setApiKey("rk_test_51GsTFZAfeRYJS3I0OACGmiw0GmetVIBjgQg1BKIpVt92c9aLL7r1WjVCq7ONc9mG8mZt9zOu95kC3NS1S2LfaCxJ00w8DLnJqz")
 				  .build();
 	}
 	
